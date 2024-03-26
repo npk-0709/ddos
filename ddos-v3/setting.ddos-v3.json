@@ -1,0 +1,6 @@
+{
+    "useragent":"useragent.dat",
+    "referer":"referer.dat",
+    "proxies":"proxies.dat",
+    "isproxy":false
+}
